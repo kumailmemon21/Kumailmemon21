@@ -10,7 +10,7 @@ My journey in information technology and systems has led me to develop a passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a Security Audit                   | <a href="https://google.com">Detection Lab</a>|
+| Conducting a Security Audit                   | <a href="https://github.com/kumailmemon21/Conduct-A-Security-Audit/blob/main/README.md">Security Audit</a>|
 |                                               |                            |
 |                                               | 
 |                                               | 
@@ -30,7 +30,7 @@ My journey in information technology and systems has led me to develop a passion
 <a href="https://www.coursera.org/account/accomplishments/verify/PMD6QNBVJCEL"><img src="https://img.shields.io/badge/-Coursera-0077B5?&style=for-the-badge&logo=coursera&logoColor=0077B5&color=white" />
 
 ## Projects
-- Conducting a Security Audit 
+<a href="https://github.com/kumailmemon21/Conduct-A-Security-Audit/blob/main/README.md">Conducting A Security Audit</a>
 
 
 
