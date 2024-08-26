@@ -4,13 +4,13 @@
 I am a recent graduate from The University of Texas at Dallas with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-My journey in information technology and systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology and Systems has sparked a deep interest in data analytics, AI, and ML, and I am eager to transition into these fields to drive data-driven insights and innovative solutions.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a Security Audit                   | <a href="https://github.com/kumailmemon21/Conduct-A-Security-Audit/blob/main/README.md">Security Audit</a>|
+|                                               |                            |
 |                                               |                            |
 |                                               | 
 |                                               | 
@@ -27,10 +27,8 @@ My journey in information technology and systems has led me to develop a passion
 
 ## Certifications
 <div>
-<a href="https://www.coursera.org/account/accomplishments/verify/PMD6QNBVJCEL"><img src="https://img.shields.io/badge/-Coursera-0077B5?&style=for-the-badge&logo=coursera&logoColor=0077B5&color=white" />
+
 
 ## Projects
-<a href="https://github.com/kumailmemon21/Conduct-A-Security-Audit/blob/main/README.md">Conducting A Security Audit</a>
-
 
 
