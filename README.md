@@ -18,12 +18,19 @@ My journey in Information Technology and Systems has sparked a deep interest in 
 |                                               | 
 
 ## Tools
+SQL (SQL Server, MySQL, PostgreSQL)
 
-### Network
+Python (Pandas, NumPy, SciPy, MatPlotLib)
 
-### Endpoint
+Tableau
 
-### SIEM
+Excel (VLookup, Conditional Formatting, Pivot Tables)
+
+Microsoft Azure (DataBricks, Azure Data Lake, Azure Data Warehouse)
+
+PySpark
+
+Microsoft Power BI
 
 ## Certifications
 <div>
