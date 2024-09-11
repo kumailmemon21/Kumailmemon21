@@ -4,7 +4,7 @@
 I am a recent graduate from The University of Texas at Dallas with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-My journey in Information Technology and Systems has sparked a deep interest in data analytics, AI, and ML, and I am eager to transition into these fields to drive data-driven insights and innovative solutions.
+
 
 ## Skills
 
@@ -18,19 +18,7 @@ My journey in Information Technology and Systems has sparked a deep interest in 
 |                                               | 
 
 ## Tools
-SQL (SQL Server, MySQL, PostgreSQL)
 
-Python (Pandas, NumPy, SciPy, MatPlotLib)
-
-Tableau
-
-Excel (VLookup, Conditional Formatting, Pivot Tables)
-
-Microsoft Azure (DataBricks, Azure Data Lake, Azure Data Warehouse)
-
-PySpark
-
-Microsoft Power BI
 
 ## Certifications
 <div>
